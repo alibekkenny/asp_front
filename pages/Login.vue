@@ -6,18 +6,7 @@
         <div class="w-full px-3 mb-5">
           <label for="" class="text-xs font-semibold px-1">Email</label>
           <div class="flex">
-            <div
-              class="
-                w-10
-                z-10
-                pl-1
-                text-center
-                pointer-events-none
-                flex
-                items-center
-                justify-center
-              "
-            >
+            <div class="w-10 pl-1 text-center flex items-center justify-center">
               <i class="mdi mdi-email-outline text-gray-400 text-lg"></i>
             </div>
             <input
@@ -34,7 +23,7 @@
                 outline-none
                 focus:border-indigo-500
               "
-              placeholder="johnsmith@example.com"
+              placeholder="lelouch_vi_britania@example.com"
             />
           </div>
         </div>
@@ -46,7 +35,6 @@
             <div
               class="
                 w-10
-                z-10
                 pl-1
                 text-center
                 pointer-events-none

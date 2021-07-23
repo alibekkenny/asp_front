@@ -34,7 +34,7 @@
                 outline-none
                 focus:border-indigo-500
               "
-              placeholder="johnsmith@example.com"
+              placeholder="petr_yan@example.com"
             />
           </div>
         </div>
@@ -46,7 +46,6 @@
             <div
               class="
                 w-10
-                z-10
                 pl-1
                 text-center
                 pointer-events-none
